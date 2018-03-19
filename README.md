@@ -11,6 +11,7 @@ To run:
 ./runProject or runProject.bat
 
 To test:
+build/classes/main/com.praticalsession.CashMan_3001.CashMan3001ApplicationTests
 
 
 Problem Summary
